@@ -1,3 +1,0 @@
-feat: 制片流程补全人物卡/故事板/分镜多参 + 资产齐备硬门 + 视频音乐全能参考
-
-catimation-video / film-studio 同步主仓:人物卡锁形象、故事板分镜、资产齐备硬门(缺口三选一:找/自主补/问用户)、生成用全部可用资产(图片+视频+音乐均全能参考)。bump catimation-film 1.0.1 / catimation-video 1.0.2。
